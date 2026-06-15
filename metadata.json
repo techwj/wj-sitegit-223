@@ -1,0 +1,71 @@
+{
+  "siteId": "cross-border-payment-platform-comparison",
+  "generatedAt": "2026-06-12T16:23:57.322263",
+  "categories": [
+    "beginner-cross-border-payment-platform-comparison",
+    "advanced-cross-border-payment-platform-comparison",
+    "tips-cross-border-payment-platform-comparison",
+    "history-cross-border-payment-platform-comparison",
+    "trending-cross-border-payment-platform-comparison",
+    "tutorials-cross-border-payment-platform-comparison"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-cross-border-payment-platform-comparison",
+      "category_name": "Beginner Cross-Border Payment Platform Comparison"
+    },
+    {
+      "category_slug": "advanced-cross-border-payment-platform-comparison",
+      "category_name": "Advanced Cross-Border Payment Platform Comparison"
+    },
+    {
+      "category_slug": "tips-cross-border-payment-platform-comparison",
+      "category_name": "Cross-Border Payment Platform Comparison Tips"
+    },
+    {
+      "category_slug": "history-cross-border-payment-platform-comparison",
+      "category_name": "Cross-Border Payment Platform Comparison History"
+    },
+    {
+      "category_slug": "trending-cross-border-payment-platform-comparison",
+      "category_name": "Trending Cross-Border Payment Platform Comparison"
+    },
+    {
+      "category_slug": "tutorials-cross-border-payment-platform-comparison",
+      "category_name": "Cross-Border Payment Platform Comparison Tutorials"
+    }
+  ],
+  "articleCount": 108,
+  "design": {
+    "site_id": "cross-border-payment-platform-comparison",
+    "color_scheme": {
+      "name": "Warm Orange",
+      "primary": "#c2410c",
+      "secondary": "#f97316",
+      "accent": "#fdba74",
+      "background": "#fff7ed",
+      "text": "#7c2d12",
+      "light": "#ffedd5"
+    },
+    "font": {
+      "name": "Inter",
+      "family": "'Inter', system-ui, sans-serif",
+      "import": "@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');"
+    },
+    "layout": "minimal",
+    "border_radius": "4px",
+    "box_shadow": "0 4px 6px -1px rgba(0,0,0,0.1), 0 2px 4px -1px rgba(0,0,0,0.06)",
+    "article_card_style": "list",
+    "header_style": "sticky",
+    "footer_style": "detailed",
+    "modules": [
+      "featured-section",
+      "recent-comments",
+      "trending-articles",
+      "popular-tags",
+      "category-highlights"
+    ],
+    "site_title": "Cross-Border Payment Platform Comparison Central",
+    "articles_per_row": 4
+  }
+}
